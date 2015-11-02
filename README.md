@@ -24,4 +24,4 @@ Por lo tanto, se les pide a cada área trabajar en su branch correspondiente y, 
 Finalmente, este README se irá actualizando según sea necesario.
 Saludos!
 
-*No tenemos la oportunidad de hacer muchas cosas, por lo que cada una de ellas debería ser excelente. Porque ésta es nuestra vida. La vida es breve, y después morimos, ¿lo sabes? Nosotros elegimos qué hacer con nuestras vidas. Así que más vale que sea algo jodidamente bueno. Más vale que valga la pena.* - **Steve Jobs**
+>*No tenemos la oportunidad de hacer muchas cosas, por lo que cada una de ellas debería ser excelente. Porque ésta es nuestra vida. La vida es breve, y después morimos, ¿lo sabes? Nosotros elegimos qué hacer con nuestras vidas. Así que más vale que sea algo jodidamente bueno. Más vale que valga la pena.* - **Steve Jobs**

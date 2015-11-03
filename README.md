@@ -4,7 +4,9 @@ Estimados!
 Les dejo los requisitos para ejecutar sin problemas el proyecto:
   * Visual Studio Community 2015 - Ultima version (No se ha probado con otra versión hasta el momento).
   * GitHub para la actualización del repositorio.
-    - Hacer un "Fork" al repositorio (Esta parte la maneja más Jose Osses que sabe utilizar mejor la herramienta gráfica).
+    - Dar el nombre de usuario a Raúl para agregarlos como colaboradores.
+    - Clicar el botón "Clone to Desktop" (se encuentra en esta misma página).
+    - Elegir el branch correspondiente en el software y empezar a realizar cambios y commits.
   * Basta con clonar el repositorio e iniciar el .sln (Archivo de proyecto) para ejecutar.
   
 ## Organización

@@ -17,9 +17,9 @@ Como lo pueden notar, el repositorio contiene 4 branch o ramas en total:
   * Base-de-Datos
   * Codificación
 
-*El área de algoritmos trabajará directamente en el branch Master, debido a que solo modifica y agrega archivos de texto sin pasar a llevar el codigo.*
+*El área de algoritmos trabajará directamente en el branch Master, debido a que solo modifica y agrega archivos de texto sin pasar a llevar el código.*
 
-Por lo tanto, se les pide a cada área trabajar en su branch correspondiente y, cuando se estime necesario, hacer un push al branch Master para finalmente actualizar el proyecto.
+Por lo tanto, se les pide a cada área trabajar en su branch correspondiente y, cuando se estime necesario, hacer un push al branch Master para actualizar el proyecto final.
 
 ## Pie
 

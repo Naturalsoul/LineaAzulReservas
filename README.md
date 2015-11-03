@@ -3,6 +3,9 @@
 Estimados!
 Les dejo los requisitos para ejecutar sin problemas el proyecto:
   * Visual Studio Community 2015 - Ultima version (No se ha probado con otra versión hasta el momento).
+    - Ingresar a Herramientas > Agregar Nugget
+    - Buscar MVC 4
+    - Instalar MVC 4.1
   * GitHub para la actualización del repositorio.
     - Dar el nombre de usuario a Raúl para agregarlos como colaboradores.
     - Clicar el botón "Clone to Desktop" (se encuentra en esta misma página).

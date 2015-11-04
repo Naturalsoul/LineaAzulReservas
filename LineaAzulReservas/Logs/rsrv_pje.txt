@@ -1,0 +1,97 @@
+Camilo Duran - Fecha 04/11/15
+
+Descripción: Diseño de Reserva de Pasajes.
+
+La página "Reserva de Pasajes" se hace con un formulario de Ingreso de datos:
+
+* Origen - Destino
+* Ida-Vuelta / Ida
+* Fecha de Ida
+* Fecha de Vuelta (ésta opción sólo se habilita si el cliente selecciona "Ida y Vuelta)
+  Se presiona el Botón "Siguiente"(sólo es ejemplo de nombre) para dirigir a otra página con la información de horario y mas.
+--------------------------------------------------------------------------------------------------------------------------------
+Al estar en la página "Horarios e Información":
+
+Se desplega una Lista de Horarios Disponibles con siguiente información:
+  
+ | Fecha | Horario Salida | Terminal Partida | Terminal Llegada | Fecha Llegada | Hora llegada | Precio tarifa | Clase |  
+  
+  (Si el cliente anteriormente ha seleccionado "Ida y Vuelta" se le desplegará además una segunda lista con el mismo tipo de información pero de su regreso)
+  (Clase se refiere al tipo de asiento: Salón cama/SemiCama )
+  Se presiona el Botón "Siguiente"
+
+---------------------------------------------------------------------------------------------------------------------------------
+Llegamos a la página de elección de "Numero de Asiento":
+
+Aparecerán estas dos Listas con la siguiente información:
+
+                   |  Ida               |     Regreso      | --->(Regreso: Sólo si el cliente ha seleccionado "Ida y Vuelta")   
+                    
+                   |  *Trayecto         |   *Trayecto      |
+                   |  *Fecha            |   *Fecha         |
+                   |  *Hora Salida      |   *Hora Salida   |
+                   |  *Hora Llegada     |   *Hora Llegada  |
+                   |  *Tipo Asiento     |   *Tipo Asiento  |
+
+Mas abajo aparecerán todos los asientos, pero los Disponibles se podrán seleccionar, además estos tendrán un color mas llamativo que los ya ocupados (los cuales estarán deshabilidatos para su elección).
+*(La disponibilidad de asientos será distinta dependiendo de qué tipo de asiento seleccionó anteriormente el cliente, debido a que las clases son de pisos diferentes)
+
+Adjunto un enlace de referencia: http://4.bp.blogspot.com/_f2-ok7dIbpQ/S9oeFvqxlUI/AAAAAAAAA20/ls2DGkMmuv8/s400/PlazasAlsa.png
+
+Se presiona el Botón "Siguiente"
+
+--------------------------------------------------------------------------------------------------------------------------------
+Pasamos a la página de "Pre-Pago de Pasajes"	
+
+Aparecerá nuevamente la Lista con la información: 
+
+                   |  Ida               |     Regreso      | --->(Regreso: Sólo si el cliente ha seleccionado "Ida y Vuelta")   
+                    
+                   |  *Trayecto         |   *Trayecto      |
+                   |  *Fecha            |   *Fecha         |
+                   |  *Hora Salida      |   *Hora Salida   |
+                   |  *Hora Llegada     |   *Hora Llegada  |
+                   |  *Tipo Asiento     |   *Tipo Asiento  |
+                   |  *Nro Asiento      |   *Nro Asiento   | --->(Ahora aparecerá la totalidad de la información, añadiendo además el número de asiento seleccionado)
+
+Mas abajo aparecerán dos opciones de retiro de Boleto:
+
+	*Imprimir Boleto. (si se selecciona esta opción, el archivo con el documento para imprimir se enviará al correo del usuario al final del proceso 
+				y una vez ya cancelado el monto. Se envía al correo por razones de seguridad)[Referencia: Servicio de reserva de pasajes TurBus]
+         
+        *Retirar Boleto en Oficina. Deberá llegar obligatoriamente 15 minutos antes del comienzo del servicio y con su código de transacción para retirar su boleto. (El código de transacción se envía como documento al correo al final del proceso y una vez ya cancelado el monto) 
+
+Mas abajo aparecerá el pago:
+
+        *Forma de pago: 
+                       - Tarjetas Bancarias
+                       - Paypal
+        *Nombre
+        *Rut (Con su respectivo Validador)
+        *Mail
+        *Fono Contacto
+        *Paradero de subida:
+                       - Si (Si se selecciona "Si", se desplegará un cuadro de texto para especificar el paradero)
+                       - No 
+                       
+        *Condiciones de Compra:
+                       - Leer
+                       - Aceptar
+
+Se presiona el Botón "Pagar"
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Se accederá finalmente al servicio de paga de su elección. -->(Por planificar)
+
+
+                   
+      
+
+
+                                       
+                   
+                      
+                     
+                     
+  

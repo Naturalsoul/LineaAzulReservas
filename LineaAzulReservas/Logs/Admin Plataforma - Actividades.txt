@@ -1,0 +1,17 @@
+/* Aquí se especifica las distintias actividades que realiza el Administrador de Plataforma.
+ * Recuerde que el Admin de Plataforma o AP es el encargado de los itinerarios
+ * y las finanzas.
+ *
+ *  03/11/2015
+ */
+
+Se necesita crear un panel de administración exclusivo para el AP con las distintias funciones:
+    - Ingresar y modificar itinerario
+        * El itinerario es la disponibilidad para cada viaje (esto se aclarará en proximas actualizaciones).
+    - Ingresar y modificar precios de viaje.
+    - Ingresar y modificar precios de clase según viaje.
+        * Confirmar si el precio de cada clase varía según el viaje.
+
+Eso es por el momento.
+Cualquier duda, no dude en consultar al área de algoritmos.
+Saludos!

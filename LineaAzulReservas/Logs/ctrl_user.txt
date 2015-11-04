@@ -1,0 +1,26 @@
+Camilo Duran - Fecha: 02-11-15
+
+Descripción: El login de los Usuarios:
+
+             Formulario: 
+                        * Nickname
+                        * Nombre
+                        * Apellido Paterno
+                        * Apellido Materno
+                        * Sexo
+                        * Fecha Nacimiento
+                        * Estudiante
+                                    -Si (Si se selecciona si, se desplegará un ingreso de rut (validado) para comprobar que la elección es verdadera)
+                                    -No
+                        * Contraseña
+                        * Confirmar Contraseña
+                        * Correo Electrónico
+                        * Confirmar Correo Electrónico
+                        
+
+* Se verificará que el Nickname no se repita cuando los usuarios se registren.
+* Se verificará que la contraseña esté escrita de forma correcta en los dos ingresos
+* Al igual que la contraseña, el correo deberá ser correcto en los dos ingresos, además,
+  cuando el usuario complete el formulario y presione el boton "crear" (sólo es ejemplo de nombre)
+  se le enviará automáticamente un correo para la confirmación de la cuenta. Si la cuenta no es confirmada 
+  no se podrá crear el Usuario. 

@@ -3,6 +3,7 @@
  * y las finanzas.
  *
  *  03/11/2015
+ *  06/11/2015
  */
 
 Se necesita crear un panel de administración exclusivo para el AP con las distintias funciones:
@@ -11,7 +12,14 @@ Se necesita crear un panel de administración exclusivo para el AP con las disti
     - Ingresar y modificar precios de viaje.
     - Ingresar y modificar precios de clase según viaje.
         * Confirmar si el precio de cada clase varía según el viaje.
+    - Generar reporte por intervalo de tiempo, es decir, por ejemplo, reporte del 1 de octubre hasta el 31.
+        * Total de viajes reservados.
+        * Ciudad de origen más frecuente.
+        * Ciudad de destino más frecuente.
+        * Horario más frecuente (este depende de la ciudad de origen).
+        * Día de salida más frecuente, por ejemplo, el día preferido para viajar es el viernes.
+        # El intervalo de tiempo, especificado para el reporte, debe ser minimo de una semana.
 
 Eso es por el momento.
-Cualquier duda, no dude en consultar al área de algoritmos.
+Cualquier duda, consulte al área de logística.
 Saludos!

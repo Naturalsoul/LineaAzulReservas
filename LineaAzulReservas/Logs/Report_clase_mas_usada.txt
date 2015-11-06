@@ -1,0 +1,66 @@
+/* Aquí se especifica lo que debe llevar el reporte de la clase mas usada en un intervalo de tiempo por ciudad
+ *  
+ *  06/11/2015
+ */
+ Se hace un Formulario con opciones para filtrar la siguiente información: 
+ 
+Clase: 
+      Se debera mostrar el tipo de clase de viaje que se ha realizado
+ 
+ Seleccionar:
+          -Salon Cama
+          -Cama Premium
+          -Ejecutivo
+          -Todos
+          
+ Fecha:
+             Seleccionar:
+               - Fecha específica (Se desplega un calendario para esta opción: |  Fecha   |)
+               - Rango de fechas (Se desplegan dos calendarios: |  Desde   |   Hasta   |)
+               - Todos (Se refiere que desde  que se realizo la primera reserva hecha 
+               en el sistema hasta la fecha actual.)
+               
+               
+ Ciudad:
+        Se Debera mostrar la ciudad 
+        
+            Seleccionar:
+             -Nombre Ciudad
+        
+ Cantidad de reservas:
+        Se debera mostrar la cantidad de reservas dependiendo de la clase,fecha y ciudad
+        
+        
+  ATENCION:                                                                                                                    
+  *TODAS LAS OPCIONES DEBERÁN SER VALIDADAS PARA QUE NO QUEDE NINGUNA DE LAS TRES VACÍAS
+                                                                                                        
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+Pasamos a la página "Reporte"
+
+    Tabla Resultado:               ----> (Fecha: si anteriormente se selecciona "Rango de fechas", 
+                                    el resultado aparecerá así: |Desde:xx/xx/xxxx Hasta:xx/xx/xxxx|)
+                                        
+                     |  Clase  |  Fecha  | Ciudad  | Cantidad Reservas |
+                     ----------------------------------------------------
+                     | xxxxxxx | xxxxxxx |  xxxxxx |      xxxxxx       |  --> (Aquí va el resultado del filtro de información)
+                                                      
+
+
+Mas abajo aparecerán las siguientes opciones:
+
+ojo: *(Documento: Se crea un PDF con los resultados y la fecha de la creación del reporte)
+
+      - Realizar nuevo reporte (Re-dirige a la página anterior con las opciones reseteadas) 
+      
+      - Enviar reporte (Se envía el Documento reporte al correo del Gerente)
+      
+      - Imprimir reporte (También se envía el Documento al correo del Gerente)                   
+          
+  
+  
+  
+  
+              
+          

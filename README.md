@@ -12,11 +12,10 @@ Les dejo los requisitos para ejecutar sin problemas el proyecto:
 
 Como lo pueden notar, el repositorio contiene 4 branch o ramas en total:
   * Master
-  * Diseño
   * Base-de-Datos
   * Codificación
 
-*El área de algoritmos trabajará directamente en el branch Master, debido a que solo modifica y agrega archivos de texto sin pasar a llevar el código.*
+*El área de algoritmos y el área de Diseño trabajará directamente en el branch Master, debido a que solo modifica y agrega archivos de texto e imágenes sin pasar a llevar el código.*
 
 Por lo tanto, se les pide a cada área trabajar en su branch correspondiente y, cuando se estime necesario, hacer un push al branch Master para actualizar el proyecto final.
 

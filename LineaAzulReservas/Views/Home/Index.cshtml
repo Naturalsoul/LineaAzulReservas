@@ -1,0 +1,166 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>test</title>
+    <link rel="stylesheet" href="../Content/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="../Content/css/datepicker.css">
+    <link rel="stylesheet" href="../Content/css/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <script type="text/javascript" src="../Content/js/bootstrap.min.js"></script>
+<style>
+    #tablaregistro{
+
+    }
+
+
+</style>
+
+
+</head>
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <!-- INICO DEL NAV -->
+            <div class="col-md-12">
+                <div class="info">
+                    <div class="text" style="float:right;">
+                        <a href=""><i class="fa fa-phone-square fa-2x"> </i></a>
+                        <a href=""><i class="fa fa-facebook-official fa-2x"></i></a>
+                        <a href=""><i class="fa fa-google-plus-square fa-2x"></i></a>
+                        <a href=""><i class="fa fa-twitter-square fa-2x"></i></a>
+                        <a href=""><i class="fa fa-youtube-square fa-2x"></i></a>
+                        <a href=""><i class="fa fa-envelope fa-2x"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12" style="margin-top:-7px;">
+                <nav class="navbar navbar-default">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="#" style="font-size:12px"></a>
+                    </div>
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                        <ul class="nav navbar-nav"></ul>
+                        <ul class="nav navbar-nav navbar-right" style="margin-right:27%;">
+                            <li><a href="#">Inicio</a></li>
+                            <li><a href="#">Servicios especiales</a></li>
+                            <li><a href="#">Historias</a></li>
+                            <li><a href="#">Puntos de venta</a></li>
+                            <li><a href="#">Contacto</a></li>
+                        </ul>
+                    </div><!-- /.navbar-collapse -->
+                </nav>
+            </div><!-- /.container-fluid -->
+           
+        </div>
+    </div>
+    <!-- FIN DEL NAV -->
+  
+    
+    <!-- VENTA DE PASAJES FORMULARIO -->
+    <div class="col-md-4" style="margin-top:2px;">
+        <div class="panel panel-info">
+            <div class="panel-heading">
+                <h3 class="panel-title">Venta de Pasajes</h3>
+            </div>
+            <div class="panel-body">
+                <!-- LOGIN DE USUARIOS -->
+                <div class="col-md-12" style="margin-top:2px;" id="tablaregistro">
+                    <div class="login">
+                        <form class="form-inline" style="margin-left:26%;">
+                            <div class="form-group">
+                                <label class="sr-only" for="exampleInputEmail3"></label>
+                                <input type="email" class="form-control input-sm" id="exampleInputEmail3" placeholder="111.111.111-1">
+                            </div>
+                            <div class="form-group">
+                                <label class="sr-only" for="exampleInputPassword3"></label>
+                                <input type="password" class="form-control input-sm" id="exampleInputPassword3" placeholder="Contraseña">
+                            </div>
+                            <button type="submit" class="btn btn-warning btn-sm">Ingresar</button>
+                            <button type="submit" class="btn btn-danger btn-sm">Olvido su contraseña?</button>
+                            <button type="submit" class="btn btn-success btn-sm">REGISTRARSE</button>
+                        </form>
+                    </div>
+                </div>
+                <!-- FIN LOGIN DE USUARIOS -->
+            </div>
+        </div>
+    </div>
+    <!-- FIN VENTA DE PASAJES FORMULARIO -->
+    <!-- CAROUSEL SLIDER -->
+    <div class="col-md-8" style="margin-top:2px;">
+        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+                <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+            </ol>
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+                <div class="item active">
+                    <img src="../Content/img/slider/slide1.jpg" alt="...">
+                    <div class="carousel-caption">
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="../Content/img/slider/slide2.jpg" alt="...">
+                    <div class="carousel-caption">
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="../Content/img/slider/slide3.jpg" alt="...">
+                    <div class="carousel-caption">
+                    </div>
+                </div>
+            </div>
+            <!-- Controls -->
+            <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
+    <!-- FIN CAROUSEL SLIDER -->
+    <!-- OFERTAS -->
+    <div class="col-md-4" style="margin-top:2px;">
+    </div>
+    <div class="col-md-8" style="margin-top:4px;">
+        <div class="panel panel-info">
+            <div class="panel-heading">
+                <h3 class="panel-title">Ofertas</h3>
+            </div>
+            <div class="panel-body">
+                <div class="table table-responsive">
+                    <table class="table">
+                        <tr>
+                            <td><img src="../Content/img/ofertas/promoWEB-1.png" width="170px" alt=""></td>
+                            <td><img src="../Content/img/ofertas/promoWEB-2.png" width="170px" alt=""></td>
+                            <td><img src="../Content/img/ofertas/promoWEB-3.png" width="170px" alt=""></td>
+                            <td><img src="../Content/img/ofertas/promoWEB-3.png" width="170px" alt=""></td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- FIN OFERTAS -->
+</body>
+</html>

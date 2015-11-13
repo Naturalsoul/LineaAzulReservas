@@ -1,0 +1,71 @@
+Camilo Duran - 05/11/2015
+
+Descripción: Reporte reserva de pasajes (recaudaciones en un determinado tiempo.)
+
+Se hace un Formulario con opciones para filtrar la siguiente información:                   -->(También incluye la opción: ver el total general de recaudaciones)
+(El reporte se podrá realizar gracias a que los precios según servicio están ya ingresados en el sistema.)
+
+
+     * Servicios: (Acá no se especifica cual es el "Origen" y cual es el "Destino" por ser innecesario, Ejemplo: Chillan/Parral o Parral/Chillan Tienen el mismo valor.) 
+             Seleccionar:
+               - Viaje San Carlos/Chillan o viceversa
+               - Viaje San Carlos/Concepción o viceversa
+               - Viaje Chillán/Concepción o viceversa
+               - Todos
+
+     * Horario: 
+             Seleccionar:
+               - Horario específico (acá se desplegará una lista con los horarios para seleccionar alguno específico, según el servicio seleccionado obviamente.)
+                                    
+               - Todos (En la tabla de reporte que se hará al final, esta elección hará que se muestren todos los horarios de todos los servicios.)
+
+
+     * Fecha: 
+             Seleccionar:
+               - Fecha específica (Se desplega un calendario para esta opción: |  Fecha   |)
+               - Rango de fechas (Se desplegan dos calendarios: |  Desde   |   Hasta   |)
+               - Todos (Se refiere al Total desde la primera reserva hecha en el sistema hasta la mas actual.)
+ 
+       Le damos click al botón "Ver Reporte" (Ejemplo de nombre)                                                                                       
+
+
+                                                                                                                   --------------------------------------------------------------------------------------
+                                                                                                                  |*TODAS LAS OPCIONES DEBERÁN SER VALIDADAS PARA QUE NO QUEDE NINGUNA DE LAS TRES VACÍAS| 
+                                                                                                                   --------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+Pasamos a la página "Reporte"
+
+    Tabla Resultado:                                      ----> (Fecha: si anteriormente se selecciona "Rango de fechas", el resultado aparecerá así: |Desde:xx/xx/xxxx Hasta:xx/xx/xxxx|)
+                                                         |
+                     |   Servicio   |    Horario   |   Fecha   |   Ganancia total   |
+                     ----------------------------------------------------------------
+                     |    xxxxxxx   |    xxxxxxx   |   xxxxxx  |     $xxxxxx        |  --> (Aquí va el resultado del filtro de información)
+                                                      
+
+
+Mas abajo aparecerán las siguientes opciones:
+
+                     - Realizar nuevo reporte (Re-dirige a la página anterior con las opciones reseteadas) 
+                     - Enviar reporte (Se envía el Documento reporte al correo del Gerente)
+                     - Imprimir reporte (También se envía el Documento al correo del Gerente)                    *(Documento: Se crea un PDF con los resultados y la fecha de la creación del reporte)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

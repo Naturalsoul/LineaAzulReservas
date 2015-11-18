@@ -1,0 +1,25 @@
+/*Descripcion
+Este documento explica como hacer el proceso de 
+guardado de pasar variables de una pagina a otra
+
+Fecha: 15/11/2015
+*/
+
+Especificación:
+ Al momento de enviar los datos de un formulario(por ejemplo),
+ la pagina con un action dirigida a la pagina donde esta request, 
+ envie los datos en un submit en la cual reciba y guarde estos datos para ser
+ dirigidos a otra pagina a travez de un arreglo o en variables multiples
+
+Se puede hacer en MVC a travez de codigo C#(aqui os dejo links con explicación)
+http://abundantcode.com/retrieve-data-from-the-request-object-in-asp-net-mvc/
+https://www.youtube.com/watch?v=i2r6bilmj4k
+
+Y tambien se puede realizar en php como peticion al servidor a traves de creacion de cookies(esta el ejemplo en el link)
+http://phpya.com.ar/temarios/descripcion.php?cod=58
+
+Recuerde notificar al área de Algoritmos si existiese algun cambio pertinente.
+Ante cualquier duda, no dude en consultar sus problemas.
+Recuerde!!!! Cada area es importante para la realización de este proyecto.
+    Eso es por el momento.
+        Saludos!!!!

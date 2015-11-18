@@ -10,15 +10,7 @@ Les dejo los requisitos para ejecutar sin problemas el proyecto:
   
 ## Organización
 
-Como lo pueden notar, el repositorio contiene 4 branch o ramas en total:
-  * Master
-  * Diseño
-  * Base-de-Datos
-  * Codificación
-
-*El área de algoritmos trabajará directamente en el branch Master, debido a que solo modifica y agrega archivos de texto sin pasar a llevar el código.*
-
-Por lo tanto, se les pide a cada área trabajar en su branch correspondiente y, cuando se estime necesario, hacer un push al branch Master para actualizar el proyecto final.
+Como se discutio anteriormente, TODAS las áreas pasarán a la tarea de codificar el proyecto. Por lo tanto, se pide a todos los integrantes utilizar la rama Master y hacer constantes commits para evitar posibles bugs y colisiones.
 
 ## Pie
 

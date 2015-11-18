@@ -1,0 +1,383 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>@Page.Title</title>
+    @RenderSection("head", required: false)
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+    @Styles.Render("~/Content/css/estyloLineaAzul")
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+    <script type="text/javascript" src="../Scripts/js/jquery.min.js"></script>
+    <script type="text/javascript" src="../Scripts/js/moment.js"></script>
+    <script type="text/javascript" src="../Scripts/js/datepicker.js"></script>
+    <script type="text/javascript" src="../Scripts/js/functions.js"></script>
+    <script type="text/javascript" src="../Scripts/js/bootstrap.min.js"></script>
+    
+</head>
+<body>
+
+    @if (IsSectionDefined("regionLogin"))
+                {
+    @RenderSection("regionLogin")
+                }
+                else {
+ 
+        <!-- modal-->
+        
+<div class="modal fade" id="loginModal" tabindex="-1" role="dialog" aria-labelledby="loginModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+    	<div class="modal-content login-modal">
+      		<div class="modal-header login-modal-header">
+        		<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        		<h4 class="modal-title text-center" id="loginModalLabel">Acceso Usuario</h4>
+      		</div>
+      		<div class="modal-body">
+      			<div class="text-center">
+	      			<div role="tabpanel" class="login-tab">
+					  	
+					  	<ul class="nav nav-tabs" role="tablist">
+					    	<li role="presentation" class="active"><a id="signin-taba" href="#home" aria-controls="home" role="tab" data-toggle="tab">Iniciar Sesión</a></li>
+					    	<li role="presentation"><a id="signup-taba" href="#profile" aria-controls="profile" role="tab" data-toggle="tab">Registrarse</a></li>
+					  	</ul>
+					
+					 	<div class="tab-content">
+					    	<div role="tabpanel" class="tab-pane active text-center" id="home">
+					    		&nbsp;&nbsp;
+					    		<span id="login_fail" class="response_error" style="display: none;">Loggin failed, please try again.</span>
+					    		<div class="clearfix"></div>
+					    		<form>
+                                    <div class="form-group">
+								    	<div class="input-group">
+								      		<div class="input-group-addon"><i class="fa fa-user"></i></div>
+								      		<input type="text" class="form-control" id="login_username" placeholder="Username">
+								    	</div>
+								    	<span class="help-block has-error" id="email-error"></span>
+								  	</div>
+								  	<div class="form-group">
+								    	<div class="input-group">
+								      		<div class="input-group-addon"><i class="fa fa-lock"></i></div>
+								      		<input type="password" class="form-control" id="password" placeholder="Password">
+								    	</div>
+								    	<span class="help-block has-error" id="password-error"></span>
+								  	</div>
+						  			<button type="button" id="login_btn" class="btn btn-block bt-login" data-loading-text="Signing In....">Iniciar Sesión</button>
+						  			<div class="clearfix"></div>
+						  			<div class="login-modal-footer">
+						  				<div class="row">
+                                     <div class="col-xs-8 col-sm-8 col-md-8">
+                                      <i class="fa fa-lock"></i>
+                                      <a href="javascript:;" class="forgetpass-tab"> Olvido su Contraseña? </a>
+
+                                  </div>
+										</div>
+						  			</div>
+								</form>
+					    	</div>
+					    	<div role="tabpanel" class="tab-pane" id="profile">
+					    	    &nbsp;&nbsp;
+					    	    <span id="registration_fail" class="response_error" style="display: none;">Registration failed, please try again.</span>
+					    		<div class="clearfix"></div>
+					    		<form>
+                                    <div class="form-group">
+                                        <div class="input-group">
+                                            <div class="input-group-addon"><i class="fa fa-user"></i></div>
+                                            <input type="text" class="form-control" id="login_nickname" placeholder="Nickname">
+                                        </div>
+                                        <span class="help-block has-error" id="email-error"></span>
+                                    </div>
+                                    <div class="form-group">
+								    	<div class="input-group">
+								      		<div class="input-group-addon"><i class="fa fa-user"></i></div>
+								      		<input type="text" class="form-control" id="username" placeholder="Username">
+								    	</div>
+								    	<span class="help-block has-error" data-error='0' id="username-error"></span>
+								  	</div>
+                                    <div class="form-group">
+                                        <div class="input-group">
+                                            <div class="input-group-addon"><i class="fa fa-user"></i></div>
+                                            <input type="text" class="form-control" id="login_nickname" placeholder="Apellido Paterno">
+                                        </div>
+                                        <span class="help-block has-error" id="email-error"></span>
+                                    </div>
+                                    <div class="form-group">
+                                        <div class="input-group">
+                                            <div class="input-group-addon"><i class="fa fa-user"></i></div>
+                                            <input type="text" class="form-control" id="login_nickname" placeholder="Apellido Materno">
+                                        </div>
+                                        <span class="help-block has-error" id="email-error"></span>
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Sexo</label>
+                                        <select class="form-control">
+                                            <option class="disabled">Seleccione una Opción</option>
+                                            <option>Masculino</option>
+                                            <option>Femenino</option>
+                                            <option>No especifica</option>
+                                        </select>
+                                    </div>
+                                    <div class="form-group">
+                                        <div class="input-group">
+                                            <div class="input-group-addon"><i class="fa fa-calendar"></i></div>
+                                            <input type="date" class="form-control" id="login_nickname" placeholder="Fecha de Nacimiento">
+                                        </div>
+                                        <span class="help-block has-error" id="email-error"></span>
+                                    </div>
+                                    <div class="form-group">
+                                        <div class="input-group">
+                                            <div class="input-group-addon"><i class="fa fa-lock"></i></div>
+                                            <input type="password" class="form-control" id="login_nickname" placeholder="Contraseña">
+                                        </div>
+                                        <span class="help-block has-error" id="email-error"></span>
+                                    </div>
+                                    <div class="form-group">
+                                        <div class="input-group">
+                                            <div class="input-group-addon"><i class="fa fa-lock"></i></div>
+                                            <input type="password" class="form-control" id="login_nickname" placeholder="Confirmar Contraseña">
+                                        </div>
+                                        <span class="help-block has-error" id="email-error"></span>
+                                    </div>
+								  	<div class="form-group">
+								    	<div class="input-group">
+								      		<div class="input-group-addon"><i class="fa fa-at"></i></div>
+								      		<input type="text" class="form-control" id="remail" placeholder="E-mail">
+								    	</div>
+								    	<span class="help-block has-error" data-error='0' id="remail-error"></span>
+								  	</div>
+                                    <div class="form-group">
+                                        <div class="input-group">
+                                            <div class="input-group-addon"><i class="fa fa-at"></i></div>
+                                            <input type="text" class="form-control" id="remail" placeholder="Repetir E-mail">
+                                        </div>
+                                        <span class="help-block has-error" data-error='0' id="remail-error"></span>
+                                    </div>
+						  			<button type="button" id="register_btn" class="btn btn-block bt-login" data-loading-text="Registering....">Registrarse</button>
+									<div class="clearfix"></div>
+								</form>
+					    	  </div>
+						  	</div>
+						</div>
+	      				
+	      			</div>
+	      		</div>
+	      		
+	    	</div>
+	   </div>
+ 	</div>
+        
+        <!-- fin Modal-->
+        
+        
+        
+        
+    
+                     }
+    <div class="header-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8">
+                    <div class="user-menu">
+                        <ul>
+                            <!-- <li><a href="#" ><i class="fa fa-user"></i> Mi cuenta</a></li> -->
+                            <li><a href="@Url.Action("registro", "lineaAzul")"><i class="fa fa-user-plus"></i> Registrarme</a></li>
+                            <li><a href="@Url.Action("index", "Admin")"><i class="fa fa-user-secret"></i> Panel de Administración</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> <!-- End header area -->
+    <div class="mainmenu-area">
+        <div class="container">
+            <div class="row">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                @if (IsSectionDefined("regionMenu"))
+                {
+                    @RenderSection("regionMenu")
+                }
+                else {
+
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li class="active"><a href="@Url.Action("Index", "lineaAzul")">Inicio</a></li>
+                        <li><a href="@Url.Action("historia", "lineaAzul")">historia</a></li>
+                        <li><a href="@Url.Action("nuestraFlota", "lineaAzul")">nuestra flota</a></li>
+                        <li><a href="@Url.Action("puntosVenta", "lineaAzul")">puntos de venta</a></li>
+                        <li><a href="@Url.Action("destinos", "lineaAzul")">destinos</a></li>
+                        <li><a href="@Url.Action("encomiendas", "lineaAzul")">encomiendas</a></li>
+                        <li><a href="@Url.Action("contacto", "lineaAzul")">Contacto</a></li>
+                        <li><a href="#" data-toggle="modal" data-target="#loginModal"><i class="fa fa-user">&nbsp;&nbsp;Acceso Usuario</i></a></li>
+                    </ul>
+                </div>
+                }
+            </div>
+        </div>
+    </div> <!-- End mainmenu area -->
+    
+    
+    @if (IsSectionDefined("regionContenido"))
+                {
+    @RenderSection("regionContenido")
+                }
+                else
+                {
+
+    <div class="content">
+        <div class="container">
+            <div id="carousel-example-generic" class="carousel slide" data-ride="carousel" style="margin-top:1px;">
+                <!-- Indicators -->
+                <ol class="carousel-indicators">
+                    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                </ol>
+                <!-- Wrapper for slides -->
+                <div class="carousel-inner" role="listbox">
+                    <div class="item active">
+                        <img src="@Url.Content("~/Content/img/ind_1.jpg")" width="100%" alt="...">
+                        <div class="carousel-caption">
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="@Url.Content("~/Content/img/ind_4.jpg")" width="100%" alt="...">
+                        <div class="carousel-caption">
+                        </div>
+                    </div>
+                    <div class="item">
+                        <img src="@Url.Content("~/Content/img/ind_2.jpg")" width="100%" alt="...">
+                        <div class="carousel-caption">
+                        </div>
+                    </div>
+                </div>
+                <!-- Controls -->
+                <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+            </div>
+        </div>
+
+    </div>	<!-- FIN SLIDER -->
+    
+
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12" style="margin-top:2px;">
+                <div class="panel panel-info">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">Reserva tu pasaje Online</h3>
+                    </div>
+                    <div class="panel-body">
+                        <center>
+                            <form class="form-inline">
+                                <div class="form-group well">
+                                    <div class="checkbox">
+                                        <label>
+                                            Solo ida <input type="radio" name="type" onclick="disablev()">
+                                        </label>
+                                    </div>
+                                </div>
+                                <div class="form-group well">
+                                    <div class="checkbox">
+                                        <label>
+                                            Ida y vuelta <input type="radio" name="type" id="type" onclick="disablei()">
+                                        </label>
+                                    </div>
+                                </div>
+                                <hr>
+                                <div class="form-group">
+                                    <input type="text" class="form-control" id="exampleInputName2" placeholder="Ciudad de Origen">
+                                </div>
+                                <div class="form-group">
+                                    <input type="email" class="form-control" id="exampleInputEmail2" placeholder="Ciudad de Destino">
+                                </div>
+                                <div class="form-group">
+                                    <div class='input-group date' id='datetimepicker1'>
+                                        <input type='text' id="hora_salida" class="form-control" placeholder="Fecha de Salida" />
+                                        <span class="input-group-addon">
+                                            <span class="glyphicon glyphicon-calendar"></span>
+                                        </span>
+                                    </div>
+                                </div>
+                                    <div class="form-group">
+                                        <div class='input-group date' id='datetimepicker2'>
+                                            <input type='text' id="hora_regreso" class="form-control" placeholder="Fecha de Regreso" />
+                                            <span class="input-group-addon">
+                                                <span class="glyphicon glyphicon-calendar"></span>
+                                            </span>
+                                        </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <select class="form-control" name="jornada" id="jornada">
+                                                <option value="">Todo Horario</option>
+                                                <option value="">Mañana</option>
+                                                <option value="">Tarde</option>
+                                                <option value="">Noche</option>
+                                            </select>
+                                        </div>
+                                        <div class="form-group">
+                                            <button type="submit" id="button-comprar" class="btn btn-warning btn-sm">Comprar</button>
+                                        </div>
+                                        
+                            </form>
+                        </center>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12" style="margin-top:-15px;">
+                <img src="../Content/img/ofertas.png" width="100%" alt="">
+            </div>
+        </div>
+    </div>
+    <hr>
+    }
+    <div class="footer-bottom-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8">
+                    <div class="copyright">
+                        <p>&copy; 2015 LineaAzul.cl. All Rights Reserved. Coded with <i class="fa fa-heart"></i> by <a href="#" target="_blank">Codephy</a></p>
+                    </div>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="footer-card-icon">
+                        <i class="fa fa-cc-discover"></i>
+                        <i class="fa fa-cc-mastercard"></i>
+                        <i class="fa fa-cc-paypal"></i>
+                        <i class="fa fa-cc-visa"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> <!-- End footer bottom area -->
+    <script type="text/javascript">
+        $(function () {
+            $('#datetimepicker1').datetimepicker();
+        });
+        $(function () {
+            $('#datetimepicker2').datetimepicker();
+        });
+    </script>
+    @RenderBody()
+</body>
+</html>

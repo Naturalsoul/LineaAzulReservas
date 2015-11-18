@@ -38,6 +38,18 @@ namespace LineaAzulReservas
                         "~/Content/themes/base/jquery.ui.datepicker.css",
                         "~/Content/themes/base/jquery.ui.progressbar.css",
                         "~/Content/themes/base/jquery.ui.theme.css"));
+
+            bundles.Add(new StyleBundle("~/Content/css/estyloLineaAzul").Include(
+                        "~/Content/css/datepicker.css",
+                        "~/Content/css/responsive.css",
+                        "~/Content/css/style.css",
+                        "~/Content/css/estyloModal.css",
+                        "~/Content/css/bootstrap.css"));
+
+
+            bundles.Add(new StyleBundle("~/cssad").Include(
+                        "~/Content/cssadmin/bootstrap.min.css"));
+
         }
     }
 }

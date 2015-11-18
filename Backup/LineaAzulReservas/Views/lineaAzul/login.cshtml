@@ -1,0 +1,44 @@
+﻿@{
+    ViewBag.Title = "login";
+    Layout = "~/Views/plantillas/_PlantillaLineaAzul.cshtml";
+}
+
+
+@section regionContenido{
+
+
+ 
+        <div class="login-box" style="margin-left: 31%; margin-right: 31%; padding-top: 8%; padding-bottom: 10.75%;">
+            
+            <div class="login-box-body">
+                <p class="login-box-msg">Iniciar session</p>
+                <form action="../../index2.html" method="post">
+                    <div class="form-group has-feedback">
+                        <input type="email" class="form-control" placeholder="Email">
+                        <span class="glyphicon glyphicon-envelope form-control-feedback"></span>
+                    </div>
+                    <div class="form-group has-feedback">
+                        <input type="password" class="form-control" placeholder="Contraseña">
+                        <span class="glyphicon glyphicon-lock form-control-feedback"></span>
+                    </div>
+                    <div class="row">
+                        <div class="col-xs-8">
+                            <div class="checkbox icheck">
+                                <label>
+                                    <input type="checkbox"> Recordarme
+                                </label>
+                            </div>
+                        </div><!-- /.col -->
+                        <div class="col-xs-4">
+                            <button type="submit" class="btn btn-primary btn-block btn-flat">Ingresar</button>
+                        </div><!-- /.col -->
+                    </div>
+                </form>
+
+                <a href="#">Olvide mi contraseña</a><br>
+                <a href="register.html" class="text-center">Registrarse</a>
+
+            </div><!-- /.login-box-body -->
+        </div><!-- /.login-box -->
+    }
+

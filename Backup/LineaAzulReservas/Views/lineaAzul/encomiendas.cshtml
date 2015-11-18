@@ -1,0 +1,28 @@
+﻿@{
+    ViewBag.Title = "encomiendas";
+    Layout = "~/Views/plantillas/_PlantillaLineaAzul.cshtml";
+}
+
+@section regionMenu{
+    
+<div class="navbar-collapse collapse">
+    <ul class="nav navbar-nav">
+        <li><a href="@Url.Action("Index", "lineaAzul")">Inicio</a></li>
+        <li><a href="@Url.Action("historia", "lineaAzul")">historia</a></li>
+        <li><a href="@Url.Action("nuestraFlota", "lineaAzul")">nuestra flota</a></li>
+        <li><a href="@Url.Action("puntosVenta", "lineaAzul")">puntos de venta</a></li>
+        <li><a href="@Url.Action("destinos", "lineaAzul")">destinos</a></li>
+        <li class="active"><a href="@Url.Action("encomiendas", "lineaAzul")">encomiendas</a></li>
+        <li><a href="@Url.Action("contacto", "lineaAzul")">Contacto</a></li>
+        <li><a href="#" data-toggle="modal" data-target="#loginModal"><i class="fa fa-user">&nbsp;&nbsp;Acceso Usuario</i></a></li>
+    </ul>
+</div>
+    
+    }
+
+
+@section regionContenido{
+    
+    <h1>aqui va la información sobre las encomiendas</h1>
+    
+    }

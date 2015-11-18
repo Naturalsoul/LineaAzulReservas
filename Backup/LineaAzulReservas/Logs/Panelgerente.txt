@@ -1,0 +1,22 @@
+/*Descripcion
+Este archivo sugiere la creacion de un panel especial para el Gerente
+
+Fecha:03/11/2015
+*/
+
+Especificación:
+ -Tener registrado al gerente con las siguientes especificaciones
+      1.Nombre Gerente
+      2.Apellido Gerente
+      3.Nombre de usuario
+      4.Correo electronico
+      5.Confirmar correo electronico
+      6.Clave
+      7.Confirmar clave
+	-Modificar Administrador
+	-Chequear Actividad de Admimnistradpr
+	*Opcional: si es posible reporte de todos los movimientos que se ha hecho en el panel
+	
+	Recuerde notificar al área de Algoritmos si existiese algun cambio pertinente.
+  Ante cualquier duda, no dude en consultar sus problemas.
+  Si existe una sugerencia agregarla en el Github(a travez de una petición) si es posible, para un mayor entendimiento en el proyecto

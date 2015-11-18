@@ -1,0 +1,34 @@
+/*  Este archivo sugiere la creación de ciertas tablas en la base de datos
+ *  para optimizar y hacer más facil la codificación en sus distintos ámbitos.
+ *
+ *  02/11/2015
+ *
+ */
+
+Se sugiere la creación de estas tablas por el momento:
+    - Usuarios
+    - Rol
+    - Detalle
+
+La tabla usuario tendría toda la información del usuario registrado, además, un campo
+que se denomine FK_rol (que vendría siendo una FK [si es que así lo estiman conveniente]
+de la tabla Rol) para saber si el usuario en cuestión es un cliente, admin de sitio, admin
+de plataforma o gerente.
+
+La tabla Rol contendrá los cuatro distintos roles posibles:
+    * Cliente
+    * Administrador de Sitio
+    * Administrador de Plataforma
+    * Gerente
+
+La tabla detalle contendrá los atributos de cada rol, es decir, si soy un cliente solo puedo
+contener ciertas propiedades, en cambio, si soy un administrador, podré poseer otras más.
+
+Ante cualquier duda, no dude en consultar.
+
+Recuerde que este es solo un documento de sugerencia. Si, como equipo encargado de la Base de datos,
+encuentran un metodo más factible y/u optimo, utilicenlo.
+
+Recuerde notificar al área de Algoritmos de los cambios pertinentes.
+
+Saludos!

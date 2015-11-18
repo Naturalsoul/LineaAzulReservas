@@ -16,5 +16,12 @@ namespace LineaAzulReservas.Controllers
             return View();
         }
 
+        public ActionResult Registrar() {
+            return View();
+        }
+        public ActionResult Actualizar()
+        {
+            return View();
+        }
     }
 }

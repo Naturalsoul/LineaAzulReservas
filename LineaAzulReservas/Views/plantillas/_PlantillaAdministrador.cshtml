@@ -33,7 +33,7 @@
 
         <header class="main-header">
             <!-- Logo -->
-            <a href="../../index2.html" class="logo">
+            <a href="?" class="logo">
                 <!-- mini logo for sidebar mini 50x50 pixels -->
                 <span class="logo-mini"><b>A</b>dm</span>
                 <!-- logo for regular state and mobile devices -->
@@ -54,15 +54,15 @@
                         <li class="dropdown user user-menu">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                                 <img src="../Content/img/imgadmin/user1-128x128.jpg" class="user-image" alt="User Image">
-                                <span class="hidden-xs">Alexander</span>
+                                <span class="hidden-xs">Buses</span>
                             </a>
                             <ul class="dropdown-menu">
                                 <!-- User image -->
                                 <li class="user-header">
                                     <img src="../Content/img/imgadmin/user1-128x128.jpg" class="img-circle" alt="User Image">
                                     <p>
-                                        Alexander - Web Administrador
-                                        <small>Member since Nov. 2012</small>
+                                        Linea Azul - Web Admin
+                                        <small>Noviembre 2015</small>
                                     </p>
                                 </li>
                                 <!-- Menu Footer-->
@@ -111,11 +111,11 @@
                     <li class="header">Panel de Administración</li>
                     <li class="treeview">
                         <a href="#">
-                            <i class="fa fa-dashboard"></i> <span>Menu</span> <i class="fa fa-angle-left pull-right"></i>
+                            <i class="fa fa-dashboard"></i> <span>Itenerario </span> <i class="fa fa-angle-left pull-right"></i>
                         </a>
                         <ul class="treeview-menu">
-                            <li><a href="../../index.html"><i class="fa fa-circle-o"></i> Registrar</a></li>
-                            <li><a href="../../index2.html"><i class="fa fa-circle-o"></i> Actualizar</a></li>
+                            <li><a href="@Url.Action("Registrar", "Admin")"><i class="fa fa-circle-o"></i> Registrar</a></li>
+                            <li><a href="@Url.Action("Actualizar", "Admin")"><i class="fa fa-circle-o"></i> Actualizar</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -127,13 +127,17 @@
         <!-- Content Wrapper. Contains page content -->
         <div class="content-wrapper">
             <!-- Content Header (Page header) -->
-            <section class="content-header">
+                @if (IsSectionDefined("contenidoAdmin"))
+                {
+                    @RenderSection("contenidoAdmin")
+                } else {
+           <section class="content-header">
                 <h1>
                     Bienvenido
                     <small>Administrador</small>
                 </h1>
             </section>
-
+        <hr class="hour" />
             <!-- Main content -->
             <section class="content">
 
@@ -155,14 +159,15 @@
                 </div><!-- /.box -->
 
             </section><!-- /.content -->
+            }
         </div><!-- /.content-wrapper -->
-
         <footer class="main-footer">
             <div class="pull-right hidden-xs">
-                <b>Version</b> 2.3.0
+               
             </div>
-            <strong>Copyright &copy; 2014-2015 <a href="http://almsaeedstudio.com">Almsaeed Studio</a>.</strong> All rights reserved.
+            <p>&copy; 2015 LineaAzul.cl. All Rights Reserved. Coded with <i class="fa fa-heart"></i> by <a href="#" target="_blank">Codephy</a></p>
         </footer>
+
         <!-- Add the sidebar's background. This div must be placed
              immediately after the control sidebar -->
         <div class="control-sidebar-bg"></div>

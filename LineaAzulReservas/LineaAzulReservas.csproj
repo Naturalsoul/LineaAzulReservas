@@ -342,6 +342,8 @@
     <Content Include="Views\lineaAzul\puntosVenta.cshtml" />
     <Content Include="Views\lineaAzul\destinos.cshtml" />
     <Content Include="Views\lineaAzul\encomiendas.cshtml" />
+    <Content Include="Views\Admin\Registrar.cshtml" />
+    <Content Include="Views\Admin\Actualizar.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

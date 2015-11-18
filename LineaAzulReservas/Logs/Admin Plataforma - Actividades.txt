@@ -1,25 +1,33 @@
-/* Aquí se especifica las distintias actividades que realiza el Administrador de Plataforma.
+﻿/* Aquí se especifica las distintias actividades que realiza el Administrador de Plataforma.
  * Recuerde que el Admin de Plataforma o AP es el encargado de los itinerarios
  * y las finanzas.
  *
  *  03/11/2015
- *  06/11/2015
  */
 
 Se necesita crear un panel de administración exclusivo para el AP con las distintias funciones:
     - Ingresar y modificar itinerario
+
+//Area modificada por gigio ---------
+ciudades
+destino
+precio de los viaje
+horas de salida
+fecha y hora
+disponibilidad en caso extremo del bus
+
+
+graficos delas ciudades mas concurridads 
+graficos por mes cantidad de usuario
+graficos por 
+
+// ------------------------
+
         * El itinerario es la disponibilidad para cada viaje (esto se aclarará en proximas actualizaciones).
     - Ingresar y modificar precios de viaje.
     - Ingresar y modificar precios de clase según viaje.
         * Confirmar si el precio de cada clase varía según el viaje.
-    - Generar reporte por intervalo de tiempo, es decir, por ejemplo, reporte del 1 de octubre hasta el 31.
-        * Total de viajes reservados.
-        * Ciudad de origen más frecuente.
-        * Ciudad de destino más frecuente.
-        * Horario más frecuente (este depende de la ciudad de origen).
-        * Día de salida más frecuente, por ejemplo, el día preferido para viajar es el viernes.
-        # El intervalo de tiempo, especificado para el reporte, debe ser minimo de una semana.
 
 Eso es por el momento.
-Cualquier duda, consulte al área de logística.
+Cualquier duda, no dude en consultar al área de algoritmos.
 Saludos!

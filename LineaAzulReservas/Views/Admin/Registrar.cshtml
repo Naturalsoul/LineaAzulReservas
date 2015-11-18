@@ -1,0 +1,51 @@
+﻿@{
+    ViewBag.Title = "Registrar";
+    Layout = "~/Views/plantillas/_PlantillaAdministrador.cshtml";
+}
+
+@section ContenidoAdmin{
+<div class="register-box-body" style=" width:80%; text-align:center; margin-left: 10%; padding-top: 2%; padding-left:10%; padding-right:10%;">
+   
+        <form class="form-horizontal">
+            <h3 class="">Registrar datos de itinerario</h3>
+            <br/>
+            <br/>
+
+            <div class="form-group">
+                <label class="col-sm-4 control-label">Ciudad de origen: </label>
+                <div class="col-sm-6">
+                    <input type="text" class="form-control" id="InputCiudadOrigen2" placeholder="Ciudad de Origen" required>
+               
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-sm-4 control-label">Ciudad de destino: </label>
+                <div class="col-sm-6">
+                    <input type="text" class="form-control" id="InputnameCiudadDestino2" placeholder="Ciudad de Destino" required>
+                </div>
+                </div>
+            <div class="form-group">
+                <label class="col-sm-4 control-label">Precio de viaje: </label>
+                <div class="col-sm-6">
+                    <input type="text" class="form-control" id="InputPrecios2" placeholder="Precio de los viajes" required>
+                </div>
+                </div>
+            <div class="form-group">
+                <label class="col-sm-4 control-label">Fecha de Viaje: </label>
+                <div class="col-sm-6">
+                    <input type="date" class="form-control" id="InputfechaViaje2" placeholder="Fecha de viaje" required>
+                </div>
+                </div>
+            <div class="form-group">
+                <label class="col-sm-4 control-label">Hora de viaje: </label>
+                <div class="col-sm-6">
+                    <input type="time" class="form-control" id="InputHoraSalida2" placeholder="Hora de viaje" required>
+                    </div>
+                </div>
+
+        </form>
+    <button type="button" id="register_btn" class="btn btn-success" data-loading-text="Registering....">Registrar</button>
+
+</div>
+        }
+<hr />

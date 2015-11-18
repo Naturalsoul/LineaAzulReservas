@@ -1,0 +1,265 @@
+C:\Users\Usuario\Desktop\4° Semestre\Taller de Programacion 4\ProyectoBuses\LineaAzulReservas 2\LineaAzulReservas\LineaAzulReservas\bin\LineaAzulReservas.dll.config
+C:\Users\Usuario\Desktop\4° Semestre\Taller de Programacion 4\ProyectoBuses\LineaAzulReservas 2\LineaAzulReservas\LineaAzulReservas\bin\LineaAzulReservas.dll
+C:\Users\Usuario\Desktop\4° Semestre\Taller de Programacion 4\ProyectoBuses\LineaAzulReservas 2\LineaAzulReservas\LineaAzulReservas\bin\LineaAzulReservas.pdb
+C:\Users\Usuario\Desktop\4° Semestre\Taller de Programacion 4\ProyectoBuses\LineaAzulReservas 2\LineaAzulReservas\LineaAzulReservas\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Desktop\4° Semestre\Taller de Programacion 4\ProyectoBuses\LineaAzulReservas 2\LineaAzulReservas\LineaAzulReservas\bin\EntityFramework.dll
+C:\Users\Usuario\Desktop\4° Semestre\Taller de Programacion 4\ProyectoBuses\LineaAzulReservas 2\LineaAzulReservas\LineaAzulReservas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Desktop\4° Semestre\Taller de Programacion 4\ProyectoBuses\LineaAzulReservas 2\LineaAzulReservas\LineaAzulReservas\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Usuario\Desktop\4° Semestre\Taller de Programacion 4\ProyectoBuses\LineaAzulReservas 2\LineaAzulReservas\LineaAzulReservas\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\4° Semestre\Taller de Programacion 4\ProyectoBuses\LineaAzulReservas 2\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Mvc.dll
+C:\Users\Usuario\Desktop\4° Semestre\Taller de Programacion 4\ProyectoBuses\LineaAzulReservas 2\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Desktop\4° Semestre\Taller de Programacion 4\ProyectoBuses\LineaAzulReservas 2\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Providers.dll
+C:\Users\Usuario\Desktop\4° Semestre\Taller de Programacion 4\ProyectoBuses\LineaAzulReservas 2\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Razor.dll
+C:\Users\Usuario\Desktop\4° Semestre\Taller de Programacion 4\ProyectoBuses\LineaAzulReservas 2\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Usuario\Desktop\4° Semestre\Taller de Programacion 4\ProyectoBuses\LineaAzulReservas 2\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.dll
+C:\Users\Usuario\Desktop\4° Semestre\Taller de Programacion 4\ProyectoBuses\LineaAzulReservas 2\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.Razor.dll
+C:\Users\Usuario\Desktop\4° Semestre\Taller de Programacion 4\ProyectoBuses\LineaAzulReservas 2\LineaAzulReservas\LineaAzulReservas\bin\WebGrease.dll
+C:\Users\Usuario\Desktop\4° Semestre\Taller de Programacion 4\ProyectoBuses\LineaAzulReservas 2\LineaAzulReservas\LineaAzulReservas\bin\EntityFramework.xml
+C:\Users\Usuario\Desktop\4° Semestre\Taller de Programacion 4\ProyectoBuses\LineaAzulReservas 2\LineaAzulReservas\LineaAzulReservas\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\4° Semestre\Taller de Programacion 4\ProyectoBuses\LineaAzulReservas 2\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Mvc.xml
+C:\Users\Usuario\Desktop\4° Semestre\Taller de Programacion 4\ProyectoBuses\LineaAzulReservas 2\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Razor.xml
+C:\Users\Usuario\Desktop\4° Semestre\Taller de Programacion 4\ProyectoBuses\LineaAzulReservas 2\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.xml
+C:\Users\Usuario\Desktop\4° Semestre\Taller de Programacion 4\ProyectoBuses\LineaAzulReservas 2\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Usuario\Desktop\4° Semestre\Taller de Programacion 4\ProyectoBuses\LineaAzulReservas 2\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.Razor.xml
+C:\Users\Usuario\Desktop\4° Semestre\Taller de Programacion 4\ProyectoBuses\LineaAzulReservas 2\LineaAzulReservas\LineaAzulReservas\bin\es\EntityFramework.resources.dll
+C:\Users\Usuario\Desktop\4° Semestre\Taller de Programacion 4\ProyectoBuses\LineaAzulReservas 2\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Usuario\Desktop\4° Semestre\Taller de Programacion 4\ProyectoBuses\LineaAzulReservas 2\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Desktop\4° Semestre\Taller de Programacion 4\ProyectoBuses\LineaAzulReservas 2\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.Providers.resources.dll
+C:\Users\Usuario\Desktop\4° Semestre\Taller de Programacion 4\ProyectoBuses\LineaAzulReservas 2\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.Razor.resources.dll
+C:\Users\Usuario\Desktop\4° Semestre\Taller de Programacion 4\ProyectoBuses\LineaAzulReservas 2\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Usuario\Desktop\4° Semestre\Taller de Programacion 4\ProyectoBuses\LineaAzulReservas 2\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Usuario\Desktop\4° Semestre\Taller de Programacion 4\ProyectoBuses\LineaAzulReservas 2\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Usuario\Desktop\4° Semestre\Taller de Programacion 4\ProyectoBuses\LineaAzulReservas 2\LineaAzulReservas\LineaAzulReservas\obj\Debug\LineaAzulReservas.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\4° Semestre\Taller de Programacion 4\ProyectoBuses\LineaAzulReservas 2\LineaAzulReservas\LineaAzulReservas\obj\Debug\LineaAzulReservas.dll
+C:\Users\Usuario\Desktop\4° Semestre\Taller de Programacion 4\ProyectoBuses\LineaAzulReservas 2\LineaAzulReservas\LineaAzulReservas\obj\Debug\LineaAzulReservas.pdb
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\LineaAzulReservas.dll.config
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\LineaAzulReservas.dll
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\LineaAzulReservas.pdb
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\Antlr3.Runtime.dll
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\EntityFramework.dll
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\Newtonsoft.Json.dll
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\System.Net.Http.Formatting.dll
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Http.dll
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Http.WebHost.dll
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Mvc.dll
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Optimization.dll
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Providers.dll
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Razor.dll
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.dll
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\WebGrease.dll
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\EntityFramework.xml
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\Newtonsoft.Json.xml
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\System.Net.Http.Formatting.xml
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Http.xml
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Http.WebHost.xml
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Mvc.xml
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Razor.xml
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.xml
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\es\EntityFramework.resources.dll
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.Http.resources.dll
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.Providers.resources.dll
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.Razor.resources.dll
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\obj\Debug\LineaAzulReservas.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\obj\Debug\LineaAzulReservas.dll
+C:\Users\Sebastian\Documents\LineaAzul\LineaAzulReservas\LineaAzulReservas\obj\Debug\LineaAzulReservas.pdb
+C:\Users\Usuario\Dropbox\LineaAzulReservas\LineaAzulReservas\bin\LineaAzulReservas.dll.config
+C:\Users\Usuario\Dropbox\LineaAzulReservas\LineaAzulReservas\bin\LineaAzulReservas.dll
+C:\Users\Usuario\Dropbox\LineaAzulReservas\LineaAzulReservas\bin\LineaAzulReservas.pdb
+C:\Users\Usuario\Dropbox\LineaAzulReservas\LineaAzulReservas\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Dropbox\LineaAzulReservas\LineaAzulReservas\bin\EntityFramework.dll
+C:\Users\Usuario\Dropbox\LineaAzulReservas\LineaAzulReservas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Dropbox\LineaAzulReservas\LineaAzulReservas\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Usuario\Dropbox\LineaAzulReservas\LineaAzulReservas\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Dropbox\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Mvc.dll
+C:\Users\Usuario\Dropbox\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Dropbox\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Providers.dll
+C:\Users\Usuario\Dropbox\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Razor.dll
+C:\Users\Usuario\Dropbox\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Usuario\Dropbox\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.dll
+C:\Users\Usuario\Dropbox\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.Razor.dll
+C:\Users\Usuario\Dropbox\LineaAzulReservas\LineaAzulReservas\bin\WebGrease.dll
+C:\Users\Usuario\Dropbox\LineaAzulReservas\LineaAzulReservas\bin\EntityFramework.xml
+C:\Users\Usuario\Dropbox\LineaAzulReservas\LineaAzulReservas\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Dropbox\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Mvc.xml
+C:\Users\Usuario\Dropbox\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Razor.xml
+C:\Users\Usuario\Dropbox\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.xml
+C:\Users\Usuario\Dropbox\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Usuario\Dropbox\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.Razor.xml
+C:\Users\Usuario\Dropbox\LineaAzulReservas\LineaAzulReservas\bin\es\EntityFramework.resources.dll
+C:\Users\Usuario\Dropbox\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Usuario\Dropbox\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Dropbox\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.Providers.resources.dll
+C:\Users\Usuario\Dropbox\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.Razor.resources.dll
+C:\Users\Usuario\Dropbox\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Usuario\Dropbox\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Usuario\Dropbox\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Usuario\Dropbox\LineaAzulReservas\LineaAzulReservas\obj\Debug\LineaAzulReservas.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Dropbox\LineaAzulReservas\LineaAzulReservas\obj\Debug\LineaAzulReservas.dll
+C:\Users\Usuario\Dropbox\LineaAzulReservas\LineaAzulReservas\obj\Debug\LineaAzulReservas.pdb
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\LineaAzulReservas.dll.config
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\LineaAzulReservas.dll
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\LineaAzulReservas.pdb
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\Antlr3.Runtime.dll
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\EntityFramework.dll
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\Newtonsoft.Json.dll
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\System.Net.Http.Formatting.dll
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\System.Web.Http.dll
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\System.Web.Http.WebHost.dll
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\System.Web.Mvc.dll
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\System.Web.Optimization.dll
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\System.Web.Providers.dll
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\System.Web.Razor.dll
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\System.Web.WebPages.dll
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\WebGrease.dll
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\EntityFramework.xml
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\Newtonsoft.Json.xml
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\System.Net.Http.Formatting.xml
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\System.Web.Http.xml
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\System.Web.Http.WebHost.xml
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\System.Web.Mvc.xml
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\System.Web.Razor.xml
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\System.Web.WebPages.xml
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\es\EntityFramework.resources.dll
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\es\System.Web.Http.resources.dll
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\es\System.Web.Providers.resources.dll
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\es\System.Web.Razor.resources.dll
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\obj\Debug\LineaAzulReservas.csprojResolveAssemblyReference.cache
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\obj\Debug\LineaAzulReservas.dll
+C:\Users\Gr2\Desktop\proyecto\LineaAzulReservas\obj\Debug\LineaAzulReservas.pdb
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\LineaAzulReservas.dll.config
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\LineaAzulReservas.dll
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\LineaAzulReservas.pdb
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\Antlr3.Runtime.dll
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\EntityFramework.dll
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\Newtonsoft.Json.dll
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\System.Net.Http.Formatting.dll
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Http.dll
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Http.WebHost.dll
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Mvc.dll
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Optimization.dll
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Providers.dll
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Razor.dll
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.dll
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\WebGrease.dll
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\EntityFramework.xml
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\Newtonsoft.Json.xml
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\System.Net.Http.Formatting.xml
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Http.xml
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Http.WebHost.xml
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Mvc.xml
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Razor.xml
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.xml
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\es\EntityFramework.resources.dll
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.Http.resources.dll
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.Providers.resources.dll
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.Razor.resources.dll
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\obj\Debug\LineaAzulReservas.csprojResolveAssemblyReference.cache
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\obj\Debug\LineaAzulReservas.dll
+C:\Users\Gr2\Dropbox\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\obj\Debug\LineaAzulReservas.pdb
+C:\Users\Usuario\Dropbox (Codephy)\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\LineaAzulReservas.dll.config
+C:\Users\Usuario\Dropbox (Codephy)\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\LineaAzulReservas.dll
+C:\Users\Usuario\Dropbox (Codephy)\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\LineaAzulReservas.pdb
+C:\Users\Usuario\Dropbox (Codephy)\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Dropbox (Codephy)\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\EntityFramework.dll
+C:\Users\Usuario\Dropbox (Codephy)\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Dropbox (Codephy)\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Usuario\Dropbox (Codephy)\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Dropbox (Codephy)\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Mvc.dll
+C:\Users\Usuario\Dropbox (Codephy)\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Dropbox (Codephy)\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Providers.dll
+C:\Users\Usuario\Dropbox (Codephy)\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Razor.dll
+C:\Users\Usuario\Dropbox (Codephy)\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Usuario\Dropbox (Codephy)\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.dll
+C:\Users\Usuario\Dropbox (Codephy)\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.Razor.dll
+C:\Users\Usuario\Dropbox (Codephy)\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\WebGrease.dll
+C:\Users\Usuario\Dropbox (Codephy)\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\EntityFramework.xml
+C:\Users\Usuario\Dropbox (Codephy)\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Dropbox (Codephy)\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Mvc.xml
+C:\Users\Usuario\Dropbox (Codephy)\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Razor.xml
+C:\Users\Usuario\Dropbox (Codephy)\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.xml
+C:\Users\Usuario\Dropbox (Codephy)\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Usuario\Dropbox (Codephy)\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.Razor.xml
+C:\Users\Usuario\Dropbox (Codephy)\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\es\EntityFramework.resources.dll
+C:\Users\Usuario\Dropbox (Codephy)\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Usuario\Dropbox (Codephy)\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Dropbox (Codephy)\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.Providers.resources.dll
+C:\Users\Usuario\Dropbox (Codephy)\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.Razor.resources.dll
+C:\Users\Usuario\Dropbox (Codephy)\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Usuario\Dropbox (Codephy)\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Usuario\Dropbox (Codephy)\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Usuario\Dropbox (Codephy)\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\obj\Debug\LineaAzulReservas.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Dropbox (Codephy)\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\obj\Debug\LineaAzulReservas.dll
+C:\Users\Usuario\Dropbox (Codephy)\LineaAzulReservas\LineaAzulReservas\LineaAzulReservas\obj\Debug\LineaAzulReservas.pdb
+C:\Users\Usuario\Desktop\LineaAzulReservas\LineaAzulReservas\bin\LineaAzulReservas.dll.config
+C:\Users\Usuario\Desktop\LineaAzulReservas\LineaAzulReservas\bin\LineaAzulReservas.dll
+C:\Users\Usuario\Desktop\LineaAzulReservas\LineaAzulReservas\bin\LineaAzulReservas.pdb
+C:\Users\Usuario\Desktop\LineaAzulReservas\LineaAzulReservas\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Desktop\LineaAzulReservas\LineaAzulReservas\bin\EntityFramework.dll
+C:\Users\Usuario\Desktop\LineaAzulReservas\LineaAzulReservas\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Desktop\LineaAzulReservas\LineaAzulReservas\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Usuario\Desktop\LineaAzulReservas\LineaAzulReservas\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Mvc.dll
+C:\Users\Usuario\Desktop\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Desktop\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Providers.dll
+C:\Users\Usuario\Desktop\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Razor.dll
+C:\Users\Usuario\Desktop\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Usuario\Desktop\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.dll
+C:\Users\Usuario\Desktop\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.Razor.dll
+C:\Users\Usuario\Desktop\LineaAzulReservas\LineaAzulReservas\bin\WebGrease.dll
+C:\Users\Usuario\Desktop\LineaAzulReservas\LineaAzulReservas\bin\EntityFramework.xml
+C:\Users\Usuario\Desktop\LineaAzulReservas\LineaAzulReservas\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Mvc.xml
+C:\Users\Usuario\Desktop\LineaAzulReservas\LineaAzulReservas\bin\System.Web.Razor.xml
+C:\Users\Usuario\Desktop\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.xml
+C:\Users\Usuario\Desktop\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Usuario\Desktop\LineaAzulReservas\LineaAzulReservas\bin\System.Web.WebPages.Razor.xml
+C:\Users\Usuario\Desktop\LineaAzulReservas\LineaAzulReservas\bin\es\EntityFramework.resources.dll
+C:\Users\Usuario\Desktop\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Usuario\Desktop\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Usuario\Desktop\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.Providers.resources.dll
+C:\Users\Usuario\Desktop\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.Razor.resources.dll
+C:\Users\Usuario\Desktop\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Usuario\Desktop\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Usuario\Desktop\LineaAzulReservas\LineaAzulReservas\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Usuario\Desktop\LineaAzulReservas\LineaAzulReservas\obj\Debug\LineaAzulReservas.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\LineaAzulReservas\LineaAzulReservas\obj\Debug\LineaAzulReservas.dll
+C:\Users\Usuario\Desktop\LineaAzulReservas\LineaAzulReservas\obj\Debug\LineaAzulReservas.pdb

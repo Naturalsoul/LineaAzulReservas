@@ -1,0 +1,47 @@
+﻿@{
+    ViewBag.Title = "historia";
+    Layout = "~/Views/plantillas/_PlantillaLineaAzul.cshtml";
+}
+
+@section regionMenu{
+
+    <div class="navbar-collapse collapse">
+        <ul class="nav navbar-nav">
+            <li><a href="@Url.Action("Index", "lineaAzul")">Inicio</a></li>
+            <li class="active"><a href="@Url.Action("historia", "lineaAzul")">historia</a></li>
+            <li><a href="@Url.Action("nuestraFlota", "lineaAzul")">nuestra flota</a></li>
+            <li><a href="@Url.Action("puntosVenta", "lineaAzul")">puntos de venta</a></li>
+            <li><a href="@Url.Action("destinos", "lineaAzul")">destinos</a></li>
+            <li><a href="@Url.Action("encomiendas", "lineaAzul")">encomiendas</a></li>
+            <li><a href="@Url.Action("contacto", "lineaAzul")">Contacto</a></li>
+            <li><a href="#" data-toggle="modal" data-target="#loginModal"><i class="fa fa-user">&nbsp;&nbsp;Acceso Usuario</i></a></li>
+        </ul>
+    </div>
+
+}
+
+
+@section regionLogin{
+    }
+
+@section regionContenido{
+
+
+    <div style="margin-left:22%; margin-right:22%; margin-top:10%; margin-bottom:10%;">
+    <b>
+        Nacida en el año 1964 como empresa destinada a ofrecer el servicio de Transporte de Pasajeros y Carga entre las ciudades de San Carlos, Chillán y Concepción,
+        Buses Línea Azul ha desarrollado desde entonces un servicio integral, oportuno y eficiente, de acuerdo a las necesidades y requerimientos de un mercado cada día más exigente.
+
+        Hoy, con más de 40 años de existencia, Buses Línea Azul se encuentra presente
+        en las principales ciudades desde Viña del Mar hasta Puerto Montt brindando
+        servicios con una moderna flota de buses que hacen que cada una de las más de 200 salidas diarias sean cómodas y seguras experiencias de viaje.
+
+        En Buses Línea Azul invertimos permanentemente en la capacitación de nuestros trabajadores de cada área de la empresa, requerimiento atendido por especialistas externos que certifican el alto profesionalismo con que se realizan todos los procesos para brindar el mejor servicio a todos los pasajeros que nos brindan su preferencia.
+
+        Gracias por Preferirnos.
+    </b>
+</div>
+
+}
+
+

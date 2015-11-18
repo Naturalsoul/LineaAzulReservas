@@ -1,0 +1,297 @@
+
+<html>
+
+<head>
+<meta charset = "utf-8">
+<title>Diccionario </title>
+</head> 
+<body>
+
+<center>
+<table border = "2" >
+
+<h1><i> <font color = "red" /> Diccionario de Datos </i></h1>
+
+
+<tr>
+<td><i><font color = "red" /> MemberShip</i></td><td><i><font color = "red" /> Tipo de Dato</i></td><td><i><font color = "red" /> Descripcion</i></td>
+</tr>
+<tr>
+<td> user_id   </td><td> int </td><td>  id auto incrementable  </td>
+</tr>
+
+<tr>
+<td> user_name  </td><td> varchar   </td><td>   nombre de usuario  </td>
+</tr>
+
+<tr>
+<td>  father_lastname  </td><td>  varchar   </td><td>   apellido paterno  </td>
+</tr>
+
+<tr>
+<td> mother_lastname   </td><td> varchar   </td><td>  apellido materno  </td>
+</tr>
+
+<tr>
+<td>  password </td><td> varchar   </td><td>  contraseña  </td>
+</tr>
+
+<tr>
+<td>  gender   </td><td>  int </td><td> genero   </td>
+</tr>
+
+<tr>
+<td>  address	 </td><td> varchar   </td><td>   direccion </td>
+</tr>
+
+<tr>
+<td>  email  </td><td> varchar   </td><td>  email   </td>
+</tr>
+
+<tr>
+<td>  birthdate  </td><td> datetime  </td><td>  fecha de cumpleaños   </td>
+</tr>
+
+<tr>
+<td>  status  </td><td> int  </td><td> activada / no activada  ( 1/0)    </td>
+</tr>
+
+<tr>
+<td>  city  </td><td> int   </td><td>  ciudad (trabajaremos las ciudades con nùmeros al igual que las regiones)  </td>
+</tr>
+
+<tr>
+<td>  zone  </td><td> int  </td><td>  region (trabajaremos las regiones con numeros al igual que las ciudades)    </td>
+</tr>
+
+<tr>
+<td>  web_admin  </td><td> int  </td><td>   0 ,1 , 2 , 3 (El numero designara el tipo de usuario que es y lo que puede hacer (permisos))  </td>
+</tr>
+
+
+
+<tr>
+<td><i> <font color = "red" />  Member_Rol </i> </td><td><i> <font color = "red" />  Tipo de Dato  </i></td><td> <i> <font color = "red" />  Descripcion </i> </td>
+</tr>
+
+<tr>
+<td>  rol_id </td><td>  int </td><td>  0 usuario normal , 1 administrador sitio web , 2 administrador plataforma , 3 gerente  </td>
+</tr>
+
+<tr>
+<td>  rol_name </td><td>  varchar  </td><td>   numero i/o nombre que identificara al usuario   </td>
+</tr>
+
+
+
+
+<tr>
+<td><i> <font color = "red" /> City   </i></td><td><i> <font color = "red" />  Tipo de Dato </i> </td><td><i> <font color = "red" />  Descripcion  </i> </td>
+</tr>
+
+<tr>
+<td>  city_id	  </td><td> int  </td><td>  id segun ciudad   </td>
+</tr>
+
+<tr>
+<td>  city_name  </td><td>  varchar </td><td>  nombre de la ciudad   </td>
+</tr>
+
+<tr>
+<td> city_zone   </td><td> int  </td><td>   id correspondiente a la region   </td>
+</tr>
+
+
+
+<tr>
+<td><i>  <font color = "red" />  Zone   </i></td><td><i> <font color = "red" /> Tipo de Dato  </i></td><td><i> <font color = "red" />   Descripcion </i> </td>
+</tr>
+
+<tr>
+<td>  zone_id  </td><td> int </td><td>  trabajaremos del 1 al 15 equivalente a cada region   </td>
+</tr>
+
+<tr>
+<td>  zone_name  </td><td>  varchar </td><td>  nombre de la region     </td>
+</tr>
+
+
+
+<tr>
+<td><i> <font color = "red" />  Reserve   </i></td><td><i> <font color = "red" /> Tipo de Dato  </i></td><td><i> <font color = "red" />    Descripcion </i></td>
+</tr>
+
+<tr>
+<td> reserve_id    </td><td> int    </td><td>  id auto incrementable    </td>
+</tr>
+
+<tr>
+<td>  member_id  </td><td> int  </td><td> id del usuario para obtener sus datos     </td>
+</tr>
+
+<tr>
+<td>  city_origin  </td><td> int  </td><td> ciudad de origen    </td>
+</tr>
+
+<tr>
+<td> city_destiny   </td><td> int   </td><td>  ciudad de destino    </td>
+</tr>
+
+<tr>
+<td>  date_origin  </td><td> datetime </td><td> fecha de origen  (partida)    </td>
+</tr>
+
+<tr>
+<td>   date_destiny </td><td> datetime  </td><td>  fecha de destino (llegada)   </td>
+</tr>
+
+<tr>
+<td>  style_trip  </td><td> int  </td><td>  tipo de viaje/ semi cama = 0 / salon cama = 1   </td>
+</tr>
+
+<tr>
+<td>  reserve_price  </td><td> int   </td><td>   precio de la reserva  </td>
+</tr>
+
+<tr>
+<td>  number_seat  </td><td>  int  </td><td>  numero de asiento     </td>
+</tr>
+
+<tr>
+<td>  	date_reserve  </td><td> datetime </td><td>   fecha de la reserva </td>
+</tr>
+
+<br>
+<tr>
+
+<td><i><font color = "red" /> Day Trip (jornada)  </i> </td><td><i><font color = "red" />  Tipo de Dato   </i> </td><td><i> <font color = "red" />   Descripcion </i> </td> 
+
+</tr>
+
+<tr>
+<td>   trip_id </td><td>  int   </td><td> 1 , 2 , 3   </td>
+</tr>
+
+<tr>
+<td> trip_name </td><td> varchar    </td><td> mañana(1) , tarde(2) , noche(1)   </td>
+</tr>
+
+
+<tr>
+<td><i><font color = "red" />  Price of km   </i></td><td><i><font color = "red" />  Tipo de Dato </i> </td><td><i> <font color = "red" />  Descripcion  </i>  </td>
+</tr>
+
+<tr>
+<td>  km_id  </td><td> int   </td><td>    id 1 </td>
+</tr>
+
+<tr>
+<td>   price_km </td><td>  int  </td><td> precio del kilometro 15 pesos  </td>
+</tr>
+
+
+<tr>
+<td> <i><font color = "red" />  Percent_add  </i></td><td><i> <font color = "red" />  Tipo de Dato </i> </td><td><i> <font color = "red" />  Descripcion  </i> </td>
+</tr>
+
+<tr>
+<td> percent_id   </td><td> int  </td><td>   id 1  </td>
+</tr>
+
+<tr>
+<td> percent_max   </td><td> int  </td><td>  0 al 100%    </td>
+</tr>
+
+<tr>
+<td><i><font color = "red" />  Type_of_ticket  </i></td><td><i> <font color = "red" /> Tipo de Dato  </i></td><td><i> <font color = "red" />   Descripcion  </i></td>
+</tr>
+
+<tr>
+<td> ticket_id   </td><td> int  </td><td> auto incrementable segun se vayan añadiendo   </td>
+</tr>
+
+<tr>
+<td>  ticket_name  </td><td>  varchar </td><td>  normal ,  salon cama  , ejecutivo  </td>
+</tr>
+
+<tr>
+<td>  price_ticket  </td><td> int    </td><td>   precio del ticket ( ejmplo 2000)   </td>
+</tr>
+
+
+<tr>
+<td><i> <font color = "red" />  Route (ruta)   </i></td><td><i> <font color = "red" />  Tipo de Dato</i> </td><td><i> <font color = "red" />  Descripcion  </i> </td>
+</tr>
+
+<tr>
+<td>   route_id </td><td> int   </td><td>  id auto incrementable   </td>
+</tr>
+
+<tr>
+<td>  route_id_bus  </td><td> int   </td><td>   id del bus correspondiente  </td>
+</tr>
+
+<tr>
+<td>  route_ciudad_origen  </td><td>  int   </td><td>  ciudad de origen (comienzo de la ruta de viaje)   </td>
+</tr>
+
+<tr>
+<td>  route_ciudad_destino  </td><td> int  </td><td>  ciudad de destino (final de la ruta de viaje)   </td>
+</tr>
+
+<tr>
+<td>   route_km_range </td><td>  int  </td><td>   distancia en kimoletros  </td>
+</tr>
+
+<tr>
+<td>  route_terminal_out </td><td> varchar   </td><td>    terminal de salida </td>
+</tr>
+<tr>
+<td>  route_terminal_finish  </td><td>  varchar </td><td>  terminal de llegada  </td>
+</tr>
+
+<tr>
+<td>  route_hour_out  </td><td>  int </td><td>   hora de salida del bus  </td>
+</tr>
+
+<tr>
+<td><i>  <font color = "red" /> Bus  </i> </td><td><i><font color = "red" />  Tipo de Dato </i> </td><td><i> <font color = "red" />   Descripcion  </i></td>
+</tr>
+
+<tr>
+<td>   bus_id 	 </td><td> int   </td><td>  id  auto incrementable   </td>
+</tr>
+
+
+<tr>
+<td>  bus_patent  </td><td>  varchar  </td><td> patente del bus    </td>
+</tr>
+
+
+<tr>
+<td>  trip_id	  </td><td> int  </td><td>  jornada correspondiente   </td>
+</tr>
+
+
+
+<tr>
+<td>  seats_number  </td><td> int   </td><td>  numero de asientos en total    </td>
+</tr>
+
+
+<tr>
+<td>  seats_floor  </td><td>  int </td><td>   1/2  --- 1 piso y 2 pisos  </td>
+</tr>
+
+
+<tr>
+<td>   </td><td>   </td><td>  Para saber si un asiento esta ocupado o libre se usara 1/0 , 1 libre , 0 ocupado   </td>
+</tr>
+
+
+
+
+</center>
+</table>
+</body>
+<html>
